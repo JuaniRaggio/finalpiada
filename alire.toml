@@ -1,0 +1,12 @@
+name = "finalpiada"
+description = "This is an implementation of an old proyect in a new language"
+version = "0.1.0-dev"
+
+authors = ["Juan Ignacio"]
+maintainers = ["Juan Ignacio <jgarciavautrinraggi@itba.edu.ar>"]
+maintainers-logins = ["JuaniRaggio"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = ["ada"]
+
+executables = ["finalpiada"]
